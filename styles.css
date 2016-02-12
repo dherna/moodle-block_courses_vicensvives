@@ -1,0 +1,35 @@
+.block_courses_vicensvives .footer {margin-top: 5px;}
+
+#page-blocks-courses_vicensvives-courses .courseboxes {
+    padding: 20px;
+}
+
+table.vicensvives_books {
+    width: 95%;
+}
+
+table.vicensvives_books th {
+    text-align: left;
+}
+
+table.vicensvives_books .vicensvives_actions {
+    text-align: center;
+}
+
+#page-blocks-courses_vicensvives-courses .courses .info {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+#page-blocks-courses_vicensvives-courses .courses .coursebox {
+    margin: 15px 0;
+}
+
+#page-blocks-courses_vicensvives-courses .courses .coursebox h3 {
+    text-align: left;
+}
+
+#page-blocks-courses_vicensvives-addbook div[id^="progress_pbar_"] {
+    transition: none !important;
+}
